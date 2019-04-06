@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message">
+    <sys_rest_message action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <authentication_type>no_authentication</authentication_type>
+        <basic_auth_password/>
+        <basic_auth_profile/>
+        <basic_auth_user/>
+        <description/>
+        <name>Weather</name>
+        <oauth2_profile/>
+        <protocol_name/>
+        <rest_endpoint>https://api.darksky.net/forecast/0987550f7adf75d9b227664878ae1673/32.880949,-117.204565?exclude=flags,minutely,hourly,daily,alerts,flags</rest_endpoint>
+        <sys_class_name>sys_rest_message</sys_class_name>
+        <sys_created_by>maint</sys_created_by>
+        <sys_created_on>2019-04-06 00:16:48</sys_created_on>
+        <sys_id>f25809475c603300964f8fa61834b310</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Weather</sys_name>
+        <sys_package display_value="Delegated Dev 19" source="x_delegated_dev_19">c40589835c603300964f8fa61834b334</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Delegated Dev 19">c40589835c603300964f8fa61834b334</sys_scope>
+        <sys_update_name>sys_rest_message_f25809475c603300964f8fa61834b310</sys_update_name>
+        <sys_updated_by>maint</sys_updated_by>
+        <sys_updated_on>2019-04-06 00:16:48</sys_updated_on>
+        <use_basic_auth>false</use_basic_auth>
+        <use_mutual_auth>false</use_mutual_auth>
+    </sys_rest_message>
+</record_update>
